@@ -3,8 +3,8 @@
 
 I'm a Software Engineering student at University of Brasilia, learning a bit more every day. 
 
-- 🔭 I’m currently working on <a href="https://github.com/fga-eps-mds/2020-1-Ziguen">ZIGUEN</a>
-- 🌱 I’m currently learning Full-Stack Web Dev.
+- 🔭 I’m currently working on the requirements of <a href="https://requisitos-de-software.github.io/2020.2-Meu-Gov.br/">This App</a>
+- 🌱 I’m currently learning Data Structures and Software Engineering.
 - 👯 I’m looking to collaborate on Open Source Communities
 - 🤔 I’m looking for help with React.JS
 - 💬 Ask me about Software Engineering

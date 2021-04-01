@@ -8,7 +8,7 @@ I'm a Software Engineering student at University of Brasilia, learning a bit mor
 - 👯 I’m looking to collaborate on Open Source Communities
 - 🤔 I’m looking for help with React.JS
 - 💬 Ask me about Software Engineering
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/gabriela-pivetta/">LinkedIn</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/gabrielapivetta/">LinkedIn</a>
 - 😄 Pronouns: she/her
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielapivetta&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)

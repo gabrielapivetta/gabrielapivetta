@@ -11,6 +11,6 @@ I'm a Software Engineering student at University of Brasilia, learning a bit mor
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/gabrielapivetta/">LinkedIn</a>
 - 😄 Pronouns: she/her
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielapivetta&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielapivetta&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielapivetta&layout=compact&langs_count=8&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br> <br>
